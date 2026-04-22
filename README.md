@@ -15,7 +15,7 @@ NoteVault lets authenticated users create, read, update, and delete personal not
 1. **Clone the repository and navigate into the project folder:**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/ronnyabuto/notevault-api.git
    cd notevault-api
    ```
 
