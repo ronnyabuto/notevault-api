@@ -7,3 +7,5 @@ instance/
 .env
 .DS_Store
 .pytest_cache/
+frontend-client/
+*.mp4

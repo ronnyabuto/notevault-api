@@ -71,6 +71,21 @@ The API will be available at `http://localhost:5555`.
 
 ---
 
+## Testing with the Frontend Client
+
+The assignment provides a session-based React client for testing all auth and resource endpoints:
+
+```bash
+git clone https://github.com/learn-co-curriculum/flask-c10-summative-lab-sessions-and-jwt-clients.git
+cd flask-c10-summative-lab-sessions-and-jwt-clients/client-with-sessions
+npm install
+npm start   # runs on http://localhost:4000
+```
+
+Ensure the Flask API is running on port 5555 before starting the client. The React app proxies all requests to `http://localhost:5555` automatically.
+
+---
+
 ## API Endpoints
 
 ### Auth
