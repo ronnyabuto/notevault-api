@@ -8,4 +8,5 @@ instance/
 .DS_Store
 .pytest_cache/
 frontend-client/
+client/node_modules/
 *.mp4
